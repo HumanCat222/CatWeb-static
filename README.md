@@ -2,7 +2,7 @@
 
 Powers **[CatWeb](https://www.roblox.com/games/16855862021/CatWeb-Make-a-Website)**'s upcoming search spellcheck feature.
 
-## Currently supported Locales
+## Currently supported locales
 - **en**: English
 
 ## Contributing
