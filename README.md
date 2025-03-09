@@ -1,10 +1,1 @@
-# Powers CatWeb's upcoming search spellcheck feature
-
-https://www.roblox.com/games/16855862021/CatWeb-Make-a-Website
-
-**Words should adhere to the CatWeb Rules, be at least 4 letters long, and cannot contain abbreviations.**
-
-Include trending terms, popular words, popular websites, preferably specific to CatWeb.
-
-## Currently Supported Locales
-- **en**: English
+I want to sincerely apologize for the hurtful words I said to you. It was completely wrong, and I deeply regret making such a careless statement. There’s no excuse for it, and I can only imagine how hurtful it must have been. I understand that my words were completely out of line, and I want to express how truly sorry I am. Please know that I never meant to cause you any pain, and I regret my actions deeply. - RoWeb_Advertisers
