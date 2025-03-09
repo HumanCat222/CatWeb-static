@@ -124,6 +124,7 @@ anyway
 anywhere
 apart
 apartment
+app
 apparent
 apparently
 appeal
