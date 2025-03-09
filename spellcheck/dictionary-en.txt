@@ -1966,6 +1966,7 @@ quickly
 quiet
 quietly
 quit
+quagga
 quite
 quote
 race
