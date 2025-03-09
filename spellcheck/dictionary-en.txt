@@ -46,6 +46,10 @@ admission
 admit
 adolescent
 adopt
+ads
+adsmail
+adslogin
+adschat
 adult
 advance
 advanced
