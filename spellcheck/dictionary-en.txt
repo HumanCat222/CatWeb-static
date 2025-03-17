@@ -1,1 +1,474 @@
-
+Afar
+Afrikaans
+Akana
+Aragonés
+Armãneashce
+Arpitan
+Asturianu
+Atikamekw
+Avañe'ẽ
+Aymar
+Azərbaycanca
+Bahasa Banjar
+Bahasa Indonesia
+Bahasa Melayu
+Bahsa Acèh
+Bamanankan
+Basa Banyumasan
+Basa Jawa
+Basa Sunda
+Basa Ugi
+Bikol
+Bislama
+Boarisch
+Bokmål
+Bosanski
+Brezhoneg
+Bân-lâm-gú
+Català
+Chamoru
+Chavacano de Zamboanga
+Chichewa
+Choctaw
+Corsu
+Cuengh
+Cymraeg
+Dansk
+Deitsch
+Deutsch
+Dinka
+Diné bizaad
+Dolnoserbski
+Doteli
+Dzhudezmo
+Ebon
+Eesti
+Emiliàn e rumagnòl
+Englisc
+Español
+Esperanto
+Estremeñu
+Euskara
+Ewegbe
+Fiji Hindi
+Français
+Frysk
+Fulfulde
+Furlan
+Føroyskt
+Gaeilge
+Gaelg
+Gagana Samoa
+Gagauz
+Galego
+Gàidhlig
+Gĩkũyũ
+Hak-kâ-fa
+Hawai`i
+Hiri Motu
+Hornjoserbsce
+Hrvatski
+Ido
+Igbo
+Ikinyarwanda
+Interlingua
+Interlingue
+Italiano
+Iñupiak
+Jumiekan Kryuol
+Kabiye
+Kalaallisut
+Kanuri
+Kapampangan
+Karjalan
+Kaszëbsczi
+Kernewek/Karnuack
+KiKongo
+Kirundi
+Kiswahili
+Krèyol ayisyen
+Kuanyama
+Kurdî
+Latgaļu
+Latina
+Latviešu
+Lietuvių
+Limburgs
+Lingala
+Lojban
+Luganda
+Lumbaart
+Lëtzebuergesch
+Líguru
+Magyar
+Malagasy
+Malti
+Minangkabau
+Mìng-dĕ̤ng-ngṳ̄
+Māori
+Na Vosa Vakaviti
+Nederlands
+Nedersaksisch
+Nehiyaw
+Nnapulitano
+Norfuk
+Norsk
+Nouormand
+Novial
+Nynorsk
+Nāhuatl
+Occitan
+Oromoo
+Oshiwambo
+Otsiherero
+O‘zbek
+Pangasinan
+Papiamentu
+Picard
+Piemontèis
+Plattdüütsch
+Polski
+Português
+Qaraqalpaqsha
+Reo Mā`ohi
+Ripoarisch
+Română
+Rumantsch
+Runa Simi
+Sardu
+Saladish
+Scots
+Seeltersk
+Sepedi
+Sesotho
+Setswana
+Shqip
+SiSwati
+Sicilianu
+Sinugboanong Binisaya
+Slovenčina
+Slovenščina
+Soomaali
+Soranî
+Sranantongo
+Srpski
+Suomi
+Svenska
+Sámegiella
+Sängö
+Tagalog
+Taqbaylit
+Tarandíne
+Tatarça
+Tetun
+Tiếng Việt
+Tok Pisin
+Tsetsêhestâhese
+Tshivenda
+Twi
+Türkçe
+Vepsän
+Volapük
+Vèneto
+Võro
+Walon
+Winaray
+Wolof
+Xitsonga
+Yorùbá
+Zazaki
+Zeêuws
+afrikaans
+akan
+albanian
+amazigh
+amharic
+arabic
+aramaic
+armenian
+assamese
+aymara
+azerbaijani
+balochi
+bambara
+banda
+bashkort
+basque
+belarusian
+bemba
+bengali
+bhojpuri
+bislama
+bosnian
+brahui
+bulgarian
+burmese
+cantonese
+catalan
+cebuano
+chechen
+cherokee
+chewa
+chiShona
+chiTumbuka
+croatian
+czech
+dakota
+danish
+dari
+dholuo
+dinka
+dorerin Naoero
+dutch
+english
+esperanto
+estonian
+ewe
+Русиньскый
+faka Tonga
+farsi
+filipino
+finnish
+fon
+french
+fula
+fМокшень
+galician
+georgian
+german
+gikuyu
+greek
+guarani
+gujarati
+hQırımtatarca
+haitian creole
+hausa
+hawaiian
+hawaiian creole
+hebrew
+hiligaynon
+hindi
+hungarian
+icelandic
+igbo
+ilocano
+indonesian
+inuit
+inupiaq
+irishgaelic
+isiXhosa
+isiZulu
+italian
+japanese
+jarai
+javanese
+k'iche'
+kabyle
+kannada
+kashmiri
+kazakh
+khmer
+khoekhoe
+kinyarwanda
+kongo
+konkani
+korean
+kurdish
+kyrgyz
+lMirandés
+lPälzisch
+lao
+latin
+latvian
+lingala
+lithuanian
+lХальмг
+macedonian
+maithili
+malagasy
+malay
+malayalam
+mandarin
+mandinka
+marathi
+mende
+mongolian
+nahuatl
+navajo
+nepali
+norwegian
+ojibwa
+olokano
+oriya
+oromo
+pashto
+persian
+polish
+portuguese
+punjabi
+quechua
+Nordfriisk
+romani
+romanian
+russian
+Alemannisch
+Muskogee
+West-Vlams
+saladish
+samoan
+sanskrit
+serbian
+shona
+sindhi
+sinhala
+sinhalese
+slovak
+slovene
+slovenian
+somali
+songhay
+spanish
+swahili
+swazi
+swedish
+tachelhit
+tagalog
+taiwanese
+tajiki
+tamil
+tatar
+telugu
+thai
+tibetic
+tigrigna
+tokpisin
+tonga
+tsonga
+tswana
+tuareg
+turkish
+turkmen
+ukrainian
+urdu
+uyghur
+uzbek
+vietnamese
+warlpiri
+welsh
+wolof
+xhosa
+yakut
+yiddish
+yoruba
+yromani
+yucatec
+zapotec
+zulu
+English
+Íslenska
+Čeština
+Ślůnski
+Žemaitėška
+Ελληνικά
+Ποντιακά
+Авар
+Адыгэбзэ
+Адыгэбзэ
+Аҧсуа
+Башҡорт
+Беларуская
+Беларуская
+Буряад
+Български
+Иронау
+Коми
+Къарачай-Малкъар
+Кыргызча
+Кырык Мары
+Лакку
+Лезги чІал
+Македонски
+Монгол
+Нохчийн
+Олык Марий
+Перем Коми
+Русский
+Саха тыла
+Словѣньскъ
+Српски
+Српскохрватски
+Татарча
+Тоҷикӣ
+Тыва
+Удмурт кыл
+Українська
+Чăваш
+Эрзянь
+Қазақша
+Հայերեն
+ייִדיש
+עברית
+ئۇيغۇر تىلى
+اردو
+العربية
+تركمن
+تۆرکجه
+سنڌي، سندھی
+شاہ مکھی پنجابی
+فارسی
+كشميري
+كوردی
+لۊری شومالی
+مصرى
+مَزِروني
+هَوُسَ
+پښتو
+کوردی
+گیلکی
+ܐܪܡܝܐ
+ދިވެހިބަސް
+कश्मीरी
+गोंयची कोंकणी
+नेपाल भाषा
+नेपाली
+पाऴि
+भोजपुरी
+मराठी
+मैथिली
+संस्कृतम्
+हिन्दी
+অসমীয়া
+ইমার ঠার
+বাংলা
+বিষ্ণুপ্রিয়া মণিপুরী
+ਪੰਜਾਬੀ
+ગુજરાતી
+ଓଡ଼ିଆ
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+ತುಳು
+മലയാളം
+සිංහල
+ไทย
+ລາວ
+ཇོང་ཁ
+བོད་སྐད
+မြန်မာဘာသာ
+მარგალური
+ქართული
+ትግርኛ
+አማርኛ
+ᏣᎳᎩ
+ᐃᓄᒃᑎᑐᑦ
+ភាសាខ្មែរ
+中文
+古文
+吴语
+文言文
+日本語
+粵語
+贛語
+ꆇꉙ
+한국어
+𐌲𐌿𐍄𐌹𐍃𐌺
