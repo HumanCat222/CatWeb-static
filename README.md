@@ -1,4 +1,4 @@
-# Powers CatWeb's upcoming search spellcheck feature
+# Help Improve CatWeb's upcoming search spellcheck feature
 
 https://www.roblox.com/games/16855862021/CatWeb-Make-a-Website
 
