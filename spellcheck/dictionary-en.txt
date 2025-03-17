@@ -2766,13 +2766,12 @@ french
 german
 greek
 haitian creole
-hausa
 hawaiian
 hawaiian creole
 hebrew
-hiligaynon
 hindi
 hungarian
+chinese
 icelandic
 indonesian
 italian
