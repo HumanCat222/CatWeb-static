@@ -603,6 +603,8 @@ curriculum
 custom
 customer
 cycle
+czech
+czechia
 daily
 damage
 dance
