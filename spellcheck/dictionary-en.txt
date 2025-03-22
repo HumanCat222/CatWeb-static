@@ -603,8 +603,8 @@ curriculum
 custom
 customer
 cycle
-czech
-czechia
+Czech
+Czechia
 daily
 damage
 dance
@@ -1803,6 +1803,7 @@ poem
 poet
 poetry
 point
+Poland
 pole
 police
 policy
