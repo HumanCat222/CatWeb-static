@@ -1,10 +1,10 @@
-# Powers CatWeb's upcoming search spellcheck feature
+# Help empower CatWeb's upcoming search spellcheck feature
 
 https://www.roblox.com/games/16855862021/CatWeb-Make-a-Website
 
-**Words should adhere to the CatWeb Rules, be at least 4 letters long, and cannot contain abbreviations.**
+**Words should adhere to the CatWeb Rules, follow Roblox TOS, be at least 4 letters long, and doesn't contain abbreviations.**
 
-Include trending terms, popular words, popular websites, preferably specific to CatWeb.
+Make sure to include trending terms, popular words, popular websites, or something related to CatWeb.
 
 ## Currently Supported Locales
 - **en**: English
