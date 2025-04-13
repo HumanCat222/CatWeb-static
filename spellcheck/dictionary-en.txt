@@ -1317,7 +1317,7 @@ issue
 Italian
 item
 itself
-jacket
+jockey
 jail
 Japanese
 Jewish
