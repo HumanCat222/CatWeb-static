@@ -351,6 +351,7 @@ celebration
 celebrity
 cell
 center
+centre
 central
 century
 ceremony
