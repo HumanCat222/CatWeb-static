@@ -6,7 +6,7 @@
   },
   {
     "type": "autocorrect",
-    "pattern": "a",
-    "replacement": "á"
+    "pattern": "á",
+    "replacement": "a"
   }
 ]
