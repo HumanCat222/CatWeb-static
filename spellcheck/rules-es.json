@@ -33,5 +33,5 @@
     "type": "autocorrect",
     "pattern": "ñ",
     "replacement": "n"
-  },
+  }
 ]
