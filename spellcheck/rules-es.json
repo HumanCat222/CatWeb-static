@@ -8,5 +8,30 @@
     "type": "autocorrect",
     "pattern": "á",
     "replacement": "a"
-  }
+  },
+  {
+    "type": "autocorrect",
+    "pattern": "é",
+    "replacement": "e"
+  },
+  {
+    "type": "autocorrect",
+    "pattern": "í",
+    "replacement": "i"
+  },
+  {
+    "type": "autocorrect",
+    "pattern": "ó",
+    "replacement": "o"
+  },
+  {
+    "type": "autocorrect",
+    "pattern": "ú",
+    "replacement": "u"
+  },
+  {
+    "type": "autocorrect",
+    "pattern": "ñ",
+    "replacement": "n"
+  },
 ]
