@@ -3,5 +3,10 @@
     "type": "replace",
     "pattern": "([^s])s$",
     "replacement": "%1"
+  },
+  {
+    "type": "autocorrect",
+    "pattern": "a",
+    "replacement": "á"
   }
 ]
