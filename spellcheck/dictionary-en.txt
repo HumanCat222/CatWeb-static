@@ -1050,7 +1050,6 @@ future
 gain
 galaxy
 gallery
-game
 gang
 garage
 garden
