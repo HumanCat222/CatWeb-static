@@ -1050,7 +1050,6 @@ future
 gain
 galaxy
 gallery
-game
 gang
 garage
 garden
@@ -2072,7 +2071,6 @@ revolution
 rhythm
 rice
 rich
-rick
 ride
 rifle
 right
