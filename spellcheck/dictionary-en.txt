@@ -1050,7 +1050,7 @@ future
 gain
 galaxy
 gallery
-game
+games
 gang
 garage
 garden
@@ -2072,7 +2072,6 @@ revolution
 rhythm
 rice
 rich
-rick
 ride
 rifle
 right
@@ -2252,6 +2251,7 @@ smile
 smoke
 smooth
 snap
+snake
 snow
 soccer
 social
@@ -2570,6 +2570,7 @@ twin
 type
 typical
 typically
+tetris
 ugly
 ultimate
 ultimately
