@@ -2072,6 +2072,7 @@ revolution
 rhythm
 rice
 rich
+rick
 ride
 rifle
 right
