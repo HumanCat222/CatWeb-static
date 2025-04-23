@@ -1050,7 +1050,7 @@ future
 gain
 galaxy
 gallery
-game
+games
 gang
 garage
 garden
@@ -2252,6 +2252,7 @@ smile
 smoke
 smooth
 snap
+snake
 snow
 soccer
 social
@@ -2570,6 +2571,7 @@ twin
 type
 typical
 typically
+tetris
 ugly
 ultimate
 ultimately
