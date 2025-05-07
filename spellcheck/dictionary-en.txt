@@ -316,6 +316,8 @@ cabinet
 cable
 cake
 calculate
+calculator
+calc
 call
 camera
 camp
