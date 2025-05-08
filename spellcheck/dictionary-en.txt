@@ -607,6 +607,8 @@ curriculum
 custom
 customer
 cycle
+Czech
+Czechia
 daily
 damage
 dance
@@ -1071,6 +1073,7 @@ genetic
 gentleman
 gently
 German
+Germany
 gesture
 ghost
 giant
@@ -1806,9 +1809,11 @@ poem
 poet
 poetry
 point
+Poland
 pole
 police
 policy
+Polish
 political
 politically
 politician
